@@ -7,8 +7,8 @@ Approach:
 - Using 2 Pointers method
 - Check sum
 
-Time Complexity: 
-Space Complexity: 
+Time Complexity: O(n)
+Space Complexity: O(1)
 */
 
 #include<bits/stdc++.h>
